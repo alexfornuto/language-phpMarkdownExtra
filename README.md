@@ -1,4 +1,4 @@
-# PHP Markdown Extra package [![Build Status](https://travis-ci.org/atom/language-gfm.svg?branch=master)](https://travis-ci.org/atom/language-gfm)
+# PHP Markdown Extra package [![Build Status](https://api.travis-ci.org/alexfornuto/language-phpMarkdownExtra.svg?branch=master)](https://travis-ci.org/atom/language-gfm)
 
 Adds syntax highlighting and snippets to [PHP MarkDown Extra](https://michelf.ca/projects/php-markdown/extra/)
 files in Atom.
